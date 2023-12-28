@@ -1,0 +1,32 @@
+IMPORTANT WEBSITES FOR LEARNING CONCEPTS RELATED TO COMPUTERS
+www.geekforgeeks.org
+www.w3schools.com
+
+Step 1. START YOUR WEB BROWSER  (Micrsoft Edge (a new browser), 
+		Internet Explorer (older browser-not used now),
+		Mozilla Foirefox or some other browser) 
+Step 2. Type the address "www.geekforgeeks.com" or 
+	the address "www.w3schools.com" in the ADDRESS BAR 
+	(at the top) in the browser and THEN PRESS ENTER KEY
+	IN THE KEYBORAD.
+
+Step 3. Search for the topic that you want the learn about by
+	using THE TOPIC SEARCH BAR OF THE MAIN WEB PAGE (OR 
+	SOME OTHER PAGE) OF THE SITE. Some words of the topic 
+	(such as "Central Processing Unit") may be typed in 
+	the TOPIC SEARCH BAR FOLLOWED BY PRESSING THE ENTER
+	KEY IN THE KEYBORAD OF YOUR COMPUTER OR BY CLICKING
+	THE MOUSE OVER THE SEARCH BUTTON (IF BUTTON
+	IT IS PROVIDED). The website might also be showing a
+        proper table of contents. In such a case, the required
+	topic may be located in the table of contents also.
+
+
+There may be websites other than those mentioned above for
+learning computer concepts. If necessary, search for such
+possible sites on the web.
+
+BEST OF LUCK
+Your teacher:
+Masood Hussain
+   
