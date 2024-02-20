@@ -1,0 +1,3 @@
+namespace mynm {
+	void funcB();
+}

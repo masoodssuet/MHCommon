@@ -1,11 +1,8 @@
 #include<iostream>
 #include<conio.h>
+/* This C++ program shows different ways for input and output */
 int main(int argc, char** argv) {
-	std::cout << "This is a box" << std::endl;
-	std::cout << "This is a pen\n";
-	std::cout << "This is a stone" << "\n";
-	std::cout << "This is a book " << std::endl;
-	
+
 	int num1, num2, num3, num4, sum;
 	
 	// First approcah for input and output
